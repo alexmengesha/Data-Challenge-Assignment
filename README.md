@@ -1,6 +1,4 @@
-# Data-Challenge-Assignment
-This is a Data Challenge Assignment for  Data Science Internship Application: 
-# Child Mortality Study: Understanding Determinants and Informing Interventions
+### Title: Predicting Child Mortality using Machine Learning Techniques through Analysis of Infant Underlying Causes and Maternal Factors data using Ethiopian Public Health Institute(EPHI)
 
 ## Introduction
 
