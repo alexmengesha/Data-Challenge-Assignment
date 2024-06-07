@@ -1,4 +1,4 @@
-# Title: Predicting Child Mortality Using Machine Learning Techniques by Analyzing  Infant Underlying Causes and Maternal Factors data using Ethiopian Public Health Institute(EPHI)
+# Title: Predicting Child Mortality Using Machine Learning Techniques through Analysis of Infant Underlying Causes and Maternal Factors data using Ethiopian Public Health Institute(EPHI)
 
 ## Introduction
 
