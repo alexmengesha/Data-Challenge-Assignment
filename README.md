@@ -1,4 +1,4 @@
-### Title: Predicting Child Mortality using Machine Learning Techniques through Analysis of Infant Underlying Causes and Maternal Factors data using Ethiopian Public Health Institute(EPHI)
+### Title: Predicting Child Mortality using Machine Learning Techniques through Analysis of Infant Underlying Causes and Maternal Factors data using Ethiopian Public Health Institute (EPHI)
 
 ### Introduction
 
@@ -12,11 +12,11 @@ The persistence of high child mortality rates underscores the urgency of underst
 
 #### Data Collection
 
-A robust dataset encompassing demographic information, case types, infant underlying causes, and maternal factors was collected by Ethiopia Public Health Institute(EPHI) in National Data Management Center from Ethiopia to provide comprehensive insights into child mortality determinants.
+A robust dataset encompassing demographic information, case types, infant underlying causes, and maternal factors was collected by Ethiopia Public Health Institute (EPHI) in National Data Management Center from Ethiopia to provide comprehensive insights into child mortality determinants.
 
 ### Data Analysis
 
-Employing a blend of data Preprocessing, descriptive analytics, data visualization, and advanced machine learning techniques and model evaluation was done, the dataset was meticulously analyzed to uncover patterns, correlations, and predictive models associated with child mortality interms of infant underline cause and maternal factors.
+Employing a blend of data Preprocessing, descriptive analytics, data visualization, and advanced machine learning techniques and model evaluation was done, the dataset was meticulously analyzed to uncover patterns, correlations, and predictive models associated with child mortality in terms of infant underline cause and maternal factors.
 
 ### Classification Modeling
 
@@ -28,7 +28,7 @@ Using a suite of classification algorithms including Logistic Regression, Suppor
 
 The analysis underscored the pivotal role of 'infant underlying cause' and 'maternal factors' in shaping child mortality outcomes across various classification models. 
 These findings highlight the intricate interplay between maternal health, infant care practices, and child survival rates. 
-Any concerned bodies, academiciaons , practioneries should give match attension for these factors to prevent child mortality.
+Any concerned bodies, academicians , reactionaries should give match attention for these factors to prevent child mortality.
 ### Top Underlying Causes and Maternal Factors
 
 Visualization techniques elucidated the top five infant underlying causes and maternal factors contributing to child mortality.
@@ -38,3 +38,5 @@ Insights gleaned from these visualizations serve as invaluable guideposts for cr
 ## Conclusions and Future Considerations
 
 In conclusion, this study elucidates the multifaceted nature of child mortality and underscores the imperative of holistic approaches to address this pressing public health concern. By prioritizing investments in maternal and child healthcare, bolstering healthcare infrastructure, and implementing evidence-based interventions, tangible progress can be made in reducing child mortality rates.  Future research endeavors should focus on evaluating the efficacy of intervention strategies, monitoring progress towards global targets, and fostering cross-sectoral partnerships to advance child survival agendas on a global scale.
+
+
